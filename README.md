@@ -1,16 +1,3 @@
-# blog_online
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+it was suppose to make this app with real API but the server was destroyed, so i make that with fake detail, it's not bad , is it,?
+![Screenshot_1668411306](https://user-images.githubusercontent.com/107408431/201656489-e61a98f3-439b-4c30-a34f-e11e98c307db.png)
+![Screenshot_1668411321](https://user-images.githubusercontent.com/107408431/201656521-3f86033c-5f3b-4188-b921-15bd0da582ca.png)
